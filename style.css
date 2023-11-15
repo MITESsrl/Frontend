@@ -1,0 +1,16 @@
+selector {
+	display: block;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-family: sans-serif;
+	line-height: 1.5em;
+	background: blue;
+	cursor: pointer;
+	padding: 0;
+	padding: 0px;
+	margin: .5em;
+	margin: 0.5em;
+}
